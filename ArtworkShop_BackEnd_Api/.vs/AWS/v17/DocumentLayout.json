@@ -1,0 +1,268 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\New folder\\New folder\\ArtworkShop_BackEnd_Api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B1FB43BA-385A-4A5C-B470-496284D91E7F}|AWS\\AWS.csproj|d:\\new folder\\new folder\\artworkshop_backend_api\\aws\\models\\artworkplatformcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1FB43BA-385A-4A5C-B470-496284D91E7F}|AWS\\AWS.csproj|solutionrelative:aws\\models\\artworkplatformcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1FB43BA-385A-4A5C-B470-496284D91E7F}|AWS\\AWS.csproj|d:\\new folder\\new folder\\artworkshop_backend_api\\aws\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B1FB43BA-385A-4A5C-B470-496284D91E7F}|AWS\\AWS.csproj|solutionrelative:aws\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1FB43BA-385A-4A5C-B470-496284D91E7F}|AWS\\AWS.csproj|d:\\new folder\\new folder\\artworkshop_backend_api\\aws\\controllers\\premiumcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1FB43BA-385A-4A5C-B470-496284D91E7F}|AWS\\AWS.csproj|solutionrelative:aws\\controllers\\premiumcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1FB43BA-385A-4A5C-B470-496284D91E7F}|AWS\\AWS.csproj|d:\\new folder\\new folder\\artworkshop_backend_api\\aws\\repositories\\services\\spremium.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1FB43BA-385A-4A5C-B470-496284D91E7F}|AWS\\AWS.csproj|solutionrelative:aws\\repositories\\services\\spremium.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1FB43BA-385A-4A5C-B470-496284D91E7F}|AWS\\AWS.csproj|d:\\new folder\\new folder\\artworkshop_backend_api\\aws\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1FB43BA-385A-4A5C-B470-496284D91E7F}|AWS\\AWS.csproj|solutionrelative:aws\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1FB43BA-385A-4A5C-B470-496284D91E7F}|AWS\\AWS.csproj|d:\\new folder\\new folder\\artworkshop_backend_api\\aws\\repositories\\services\\sartwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1FB43BA-385A-4A5C-B470-496284D91E7F}|AWS\\AWS.csproj|solutionrelative:aws\\repositories\\services\\sartwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1FB43BA-385A-4A5C-B470-496284D91E7F}|AWS\\AWS.csproj|d:\\new folder\\new folder\\artworkshop_backend_api\\aws\\dto\\artworkdto\\createartwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1FB43BA-385A-4A5C-B470-496284D91E7F}|AWS\\AWS.csproj|solutionrelative:aws\\dto\\artworkdto\\createartwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1FB43BA-385A-4A5C-B470-496284D91E7F}|AWS\\AWS.csproj|d:\\new folder\\new folder\\artworkshop_backend_api\\aws\\dto\\gerneartworkdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1FB43BA-385A-4A5C-B470-496284D91E7F}|AWS\\AWS.csproj|solutionrelative:aws\\dto\\gerneartworkdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1FB43BA-385A-4A5C-B470-496284D91E7F}|AWS\\AWS.csproj|d:\\new folder\\new folder\\artworkshop_backend_api\\aws\\repositories\\interfaces\\iartwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1FB43BA-385A-4A5C-B470-496284D91E7F}|AWS\\AWS.csproj|solutionrelative:aws\\repositories\\interfaces\\iartwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1FB43BA-385A-4A5C-B470-496284D91E7F}|AWS\\AWS.csproj|d:\\new folder\\new folder\\artworkshop_backend_api\\aws\\controllers\\artworkcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1FB43BA-385A-4A5C-B470-496284D91E7F}|AWS\\AWS.csproj|solutionrelative:aws\\controllers\\artworkcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1FB43BA-385A-4A5C-B470-496284D91E7F}|AWS\\AWS.csproj|d:\\new folder\\new folder\\artworkshop_backend_api\\aws\\repositories\\interfaces\\iuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1FB43BA-385A-4A5C-B470-496284D91E7F}|AWS\\AWS.csproj|solutionrelative:aws\\repositories\\interfaces\\iuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1FB43BA-385A-4A5C-B470-496284D91E7F}|AWS\\AWS.csproj|d:\\new folder\\new folder\\artworkshop_backend_api\\aws\\repositories\\services\\suser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1FB43BA-385A-4A5C-B470-496284D91E7F}|AWS\\AWS.csproj|solutionrelative:aws\\repositories\\services\\suser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1FB43BA-385A-4A5C-B470-496284D91E7F}|AWS\\AWS.csproj|d:\\new folder\\new folder\\artworkshop_backend_api\\aws\\models\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1FB43BA-385A-4A5C-B470-496284D91E7F}|AWS\\AWS.csproj|solutionrelative:aws\\models\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1FB43BA-385A-4A5C-B470-496284D91E7F}|AWS\\AWS.csproj|d:\\new folder\\new folder\\artworkshop_backend_api\\aws\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1FB43BA-385A-4A5C-B470-496284D91E7F}|AWS\\AWS.csproj|solutionrelative:aws\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1FB43BA-385A-4A5C-B470-496284D91E7F}|AWS\\AWS.csproj|d:\\new folder\\new folder\\artworkshop_backend_api\\aws\\models\\artwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1FB43BA-385A-4A5C-B470-496284D91E7F}|AWS\\AWS.csproj|solutionrelative:aws\\models\\artwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\New folder\\New folder\\ArtworkShop_BackEnd_Api\\AWS\\appsettings.json",
+              "RelativeDocumentMoniker": "AWS\\appsettings.json",
+              "ToolTip": "D:\\New folder\\New folder\\ArtworkShop_BackEnd_Api\\AWS\\appsettings.json",
+              "RelativeToolTip": "AWS\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-04T11:19:52.053Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PremiumController.cs",
+              "DocumentMoniker": "D:\\New folder\\New folder\\ArtworkShop_BackEnd_Api\\AWS\\Controllers\\PremiumController.cs",
+              "RelativeDocumentMoniker": "AWS\\Controllers\\PremiumController.cs",
+              "ToolTip": "D:\\New folder\\New folder\\ArtworkShop_BackEnd_Api\\AWS\\Controllers\\PremiumController.cs",
+              "RelativeToolTip": "AWS\\Controllers\\PremiumController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T11:17:20.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ARTWORKPLATFORMContext.cs",
+              "DocumentMoniker": "D:\\New folder\\New folder\\ArtworkShop_BackEnd_Api\\AWS\\Models\\ARTWORKPLATFORMContext.cs",
+              "RelativeDocumentMoniker": "AWS\\Models\\ARTWORKPLATFORMContext.cs",
+              "ToolTip": "D:\\New folder\\New folder\\ArtworkShop_BackEnd_Api\\AWS\\Models\\ARTWORKPLATFORMContext.cs",
+              "RelativeToolTip": "AWS\\Models\\ARTWORKPLATFORMContext.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACUAAACDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T11:14:19.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SPremium.cs",
+              "DocumentMoniker": "D:\\New folder\\New folder\\ArtworkShop_BackEnd_Api\\AWS\\Repositories\\Services\\SPremium.cs",
+              "RelativeDocumentMoniker": "AWS\\Repositories\\Services\\SPremium.cs",
+              "ToolTip": "D:\\New folder\\New folder\\ArtworkShop_BackEnd_Api\\AWS\\Repositories\\Services\\SPremium.cs",
+              "RelativeToolTip": "AWS\\Repositories\\Services\\SPremium.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAABoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-03T13:14:35.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SUser.cs",
+              "DocumentMoniker": "D:\\New folder\\New folder\\ArtworkShop_BackEnd_Api\\AWS\\Repositories\\Services\\SUser.cs",
+              "RelativeDocumentMoniker": "AWS\\Repositories\\Services\\SUser.cs",
+              "ToolTip": "D:\\New folder\\New folder\\ArtworkShop_BackEnd_Api\\AWS\\Repositories\\Services\\SUser.cs",
+              "RelativeToolTip": "AWS\\Repositories\\Services\\SUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-03T12:17:43.504Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Genre.cs",
+              "DocumentMoniker": "D:\\New folder\\New folder\\ArtworkShop_BackEnd_Api\\AWS\\Models\\Genre.cs",
+              "RelativeDocumentMoniker": "AWS\\Models\\Genre.cs",
+              "ToolTip": "D:\\New folder\\New folder\\ArtworkShop_BackEnd_Api\\AWS\\Models\\Genre.cs",
+              "RelativeToolTip": "AWS\\Models\\Genre.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-03T12:17:43.509Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\New folder\\New folder\\ArtworkShop_BackEnd_Api\\AWS\\Program.cs",
+              "RelativeDocumentMoniker": "AWS\\Program.cs",
+              "ToolTip": "D:\\New folder\\New folder\\ArtworkShop_BackEnd_Api\\AWS\\Program.cs",
+              "RelativeToolTip": "AWS\\Program.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACkAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-03T12:17:43.513Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\New folder\\New folder\\ArtworkShop_BackEnd_Api\\AWS\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "AWS\\Controllers\\UserController.cs",
+              "ToolTip": "D:\\New folder\\New folder\\ArtworkShop_BackEnd_Api\\AWS\\Controllers\\UserController.cs",
+              "RelativeToolTip": "AWS\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-03T12:17:43.517Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SArtwork.cs",
+              "DocumentMoniker": "D:\\New folder\\New folder\\ArtworkShop_BackEnd_Api\\AWS\\Repositories\\Services\\SArtwork.cs",
+              "RelativeDocumentMoniker": "AWS\\Repositories\\Services\\SArtwork.cs",
+              "ToolTip": "D:\\New folder\\New folder\\ArtworkShop_BackEnd_Api\\AWS\\Repositories\\Services\\SArtwork.cs",
+              "RelativeToolTip": "AWS\\Repositories\\Services\\SArtwork.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAgwDQAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-03T12:17:43.542Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IUser.cs",
+              "DocumentMoniker": "D:\\New folder\\New folder\\ArtworkShop_BackEnd_Api\\AWS\\Repositories\\Interfaces\\IUser.cs",
+              "RelativeDocumentMoniker": "AWS\\Repositories\\Interfaces\\IUser.cs",
+              "ToolTip": "D:\\New folder\\New folder\\ArtworkShop_BackEnd_Api\\AWS\\Repositories\\Interfaces\\IUser.cs",
+              "RelativeToolTip": "AWS\\Repositories\\Interfaces\\IUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-03T12:17:43.5Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Artwork.cs",
+              "DocumentMoniker": "D:\\New folder\\New folder\\ArtworkShop_BackEnd_Api\\AWS\\Models\\Artwork.cs",
+              "RelativeDocumentMoniker": "AWS\\Models\\Artwork.cs",
+              "ToolTip": "D:\\New folder\\New folder\\ArtworkShop_BackEnd_Api\\AWS\\Models\\Artwork.cs",
+              "RelativeToolTip": "AWS\\Models\\Artwork.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-03T12:17:43.52Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ArtworkController.cs",
+              "DocumentMoniker": "D:\\New folder\\New folder\\ArtworkShop_BackEnd_Api\\AWS\\Controllers\\ArtworkController.cs",
+              "RelativeDocumentMoniker": "AWS\\Controllers\\ArtworkController.cs",
+              "ToolTip": "D:\\New folder\\New folder\\ArtworkShop_BackEnd_Api\\AWS\\Controllers\\ArtworkController.cs",
+              "RelativeToolTip": "AWS\\Controllers\\ArtworkController.cs",
+              "ViewState": "AQIAAFwAAAAAAAAAAAAIwFIAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-03T12:17:43.526Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GerneArtworkDTO.cs",
+              "DocumentMoniker": "D:\\New folder\\New folder\\ArtworkShop_BackEnd_Api\\AWS\\DTO\\GerneArtworkDTO.cs",
+              "RelativeDocumentMoniker": "AWS\\DTO\\GerneArtworkDTO.cs",
+              "ToolTip": "D:\\New folder\\New folder\\ArtworkShop_BackEnd_Api\\AWS\\DTO\\GerneArtworkDTO.cs",
+              "RelativeToolTip": "AWS\\DTO\\GerneArtworkDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-03T12:17:43.355Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CreateArtwork.cs",
+              "DocumentMoniker": "D:\\New folder\\New folder\\ArtworkShop_BackEnd_Api\\AWS\\DTO\\ArtworkDTO\\CreateArtwork.cs",
+              "RelativeDocumentMoniker": "AWS\\DTO\\ArtworkDTO\\CreateArtwork.cs",
+              "ToolTip": "D:\\New folder\\New folder\\ArtworkShop_BackEnd_Api\\AWS\\DTO\\ArtworkDTO\\CreateArtwork.cs",
+              "RelativeToolTip": "AWS\\DTO\\ArtworkDTO\\CreateArtwork.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAcAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-03T12:17:43.532Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IArtwork.cs",
+              "DocumentMoniker": "D:\\New folder\\New folder\\ArtworkShop_BackEnd_Api\\AWS\\Repositories\\Interfaces\\IArtwork.cs",
+              "RelativeDocumentMoniker": "AWS\\Repositories\\Interfaces\\IArtwork.cs",
+              "ToolTip": "D:\\New folder\\New folder\\ArtworkShop_BackEnd_Api\\AWS\\Repositories\\Interfaces\\IArtwork.cs",
+              "RelativeToolTip": "AWS\\Repositories\\Interfaces\\IArtwork.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-03T12:17:43.537Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

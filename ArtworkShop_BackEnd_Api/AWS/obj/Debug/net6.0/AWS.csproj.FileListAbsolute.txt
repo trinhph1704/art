@@ -1,0 +1,350 @@
+E:\GAP_KI\1\AWS\AWS\bin\Debug\net6.0\appsettings.Development.json
+E:\GAP_KI\1\AWS\AWS\bin\Debug\net6.0\appsettings.json
+E:\GAP_KI\1\AWS\AWS\bin\Debug\net6.0\AWS.exe
+E:\GAP_KI\1\AWS\AWS\bin\Debug\net6.0\AWS.deps.json
+E:\GAP_KI\1\AWS\AWS\bin\Debug\net6.0\AWS.runtimeconfig.json
+E:\GAP_KI\1\AWS\AWS\bin\Debug\net6.0\AWS.dll
+E:\GAP_KI\1\AWS\AWS\bin\Debug\net6.0\AWS.pdb
+E:\GAP_KI\1\AWS\AWS\bin\Debug\net6.0\BCrypt.Net-Next.dll
+E:\GAP_KI\1\AWS\AWS\bin\Debug\net6.0\Humanizer.dll
+E:\GAP_KI\1\AWS\AWS\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\GAP_KI\1\AWS\AWS\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\GAP_KI\1\AWS\AWS\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\GAP_KI\1\AWS\AWS\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\GAP_KI\1\AWS\AWS\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\GAP_KI\1\AWS\AWS\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\GAP_KI\1\AWS\AWS\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\GAP_KI\1\AWS\AWS\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+E:\GAP_KI\1\AWS\AWS\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\GAP_KI\1\AWS\AWS\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\GAP_KI\1\AWS\AWS\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\GAP_KI\1\AWS\AWS\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\GAP_KI\1\AWS\AWS\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\GAP_KI\1\AWS\AWS\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\GAP_KI\1\AWS\AWS\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\GAP_KI\1\AWS\AWS\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\GAP_KI\1\AWS\AWS\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\GAP_KI\1\AWS\AWS\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\GAP_KI\1\AWS\AWS\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\GAP_KI\1\AWS\AWS\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\GAP_KI\1\AWS\AWS\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\GAP_KI\1\AWS\AWS\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\GAP_KI\1\AWS\AWS\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\GAP_KI\1\AWS\AWS\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\GAP_KI\1\AWS\AWS\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\GAP_KI\1\AWS\AWS\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\GAP_KI\1\AWS\AWS\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\GAP_KI\1\AWS\AWS\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\GAP_KI\1\AWS\AWS\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\GAP_KI\1\AWS\AWS\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\GAP_KI\1\AWS\AWS\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\GAP_KI\1\AWS\AWS\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\GAP_KI\1\AWS\AWS\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\GAP_KI\1\AWS\AWS\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\GAP_KI\1\AWS\AWS\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\GAP_KI\1\AWS\AWS\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\GAP_KI\1\AWS\AWS\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\GAP_KI\1\AWS\AWS\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\GAP_KI\1\AWS\AWS\obj\Debug\net6.0\AWS.csproj.AssemblyReference.cache
+E:\GAP_KI\1\AWS\AWS\obj\Debug\net6.0\AWS.GeneratedMSBuildEditorConfig.editorconfig
+E:\GAP_KI\1\AWS\AWS\obj\Debug\net6.0\AWS.AssemblyInfoInputs.cache
+E:\GAP_KI\1\AWS\AWS\obj\Debug\net6.0\AWS.AssemblyInfo.cs
+E:\GAP_KI\1\AWS\AWS\obj\Debug\net6.0\AWS.csproj.CoreCompileInputs.cache
+E:\GAP_KI\1\AWS\AWS\obj\Debug\net6.0\AWS.MvcApplicationPartsAssemblyInfo.cs
+E:\GAP_KI\1\AWS\AWS\obj\Debug\net6.0\AWS.MvcApplicationPartsAssemblyInfo.cache
+E:\GAP_KI\1\AWS\AWS\obj\Debug\net6.0\staticwebassets.build.json
+E:\GAP_KI\1\AWS\AWS\obj\Debug\net6.0\staticwebassets.development.json
+E:\GAP_KI\1\AWS\AWS\obj\Debug\net6.0\staticwebassets\msbuild.AWS.Microsoft.AspNetCore.StaticWebAssets.props
+E:\GAP_KI\1\AWS\AWS\obj\Debug\net6.0\staticwebassets\msbuild.build.AWS.props
+E:\GAP_KI\1\AWS\AWS\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.AWS.props
+E:\GAP_KI\1\AWS\AWS\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.AWS.props
+E:\GAP_KI\1\AWS\AWS\obj\Debug\net6.0\staticwebassets.pack.json
+E:\GAP_KI\1\AWS\AWS\obj\Debug\net6.0\scopedcss\bundle\AWS.styles.css
+E:\GAP_KI\1\AWS\AWS\obj\Debug\net6.0\AWS.csproj.CopyComplete
+E:\GAP_KI\1\AWS\AWS\obj\Debug\net6.0\AWS.dll
+E:\GAP_KI\1\AWS\AWS\obj\Debug\net6.0\refint\AWS.dll
+E:\GAP_KI\1\AWS\AWS\obj\Debug\net6.0\AWS.pdb
+E:\GAP_KI\1\AWS\AWS\obj\Debug\net6.0\AWS.genruntimeconfig.cache
+E:\GAP_KI\1\AWS\AWS\obj\Debug\net6.0\ref\AWS.dll
+E:\GAP_KI\1\AWS\AWS\obj\Debug\net6.0\AWS.sourcelink.json
+E:\GAP_KI\1\AWS\AWS\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\GAP_KI\2\ArtworkShop_BackEnd_Api\AWS\bin\Debug\net6.0\appsettings.Development.json
+E:\GAP_KI\2\ArtworkShop_BackEnd_Api\AWS\bin\Debug\net6.0\appsettings.json
+E:\GAP_KI\2\ArtworkShop_BackEnd_Api\AWS\bin\Debug\net6.0\AWS.exe
+E:\GAP_KI\2\ArtworkShop_BackEnd_Api\AWS\bin\Debug\net6.0\AWS.deps.json
+E:\GAP_KI\2\ArtworkShop_BackEnd_Api\AWS\bin\Debug\net6.0\AWS.runtimeconfig.json
+E:\GAP_KI\2\ArtworkShop_BackEnd_Api\AWS\bin\Debug\net6.0\AWS.dll
+E:\GAP_KI\2\ArtworkShop_BackEnd_Api\AWS\bin\Debug\net6.0\AWS.pdb
+E:\GAP_KI\2\ArtworkShop_BackEnd_Api\AWS\bin\Debug\net6.0\BCrypt.Net-Next.dll
+E:\GAP_KI\2\ArtworkShop_BackEnd_Api\AWS\bin\Debug\net6.0\Humanizer.dll
+E:\GAP_KI\2\ArtworkShop_BackEnd_Api\AWS\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\GAP_KI\2\ArtworkShop_BackEnd_Api\AWS\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\GAP_KI\2\ArtworkShop_BackEnd_Api\AWS\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\GAP_KI\2\ArtworkShop_BackEnd_Api\AWS\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\GAP_KI\2\ArtworkShop_BackEnd_Api\AWS\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\GAP_KI\2\ArtworkShop_BackEnd_Api\AWS\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\GAP_KI\2\ArtworkShop_BackEnd_Api\AWS\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\GAP_KI\2\ArtworkShop_BackEnd_Api\AWS\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\GAP_KI\2\ArtworkShop_BackEnd_Api\AWS\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+E:\GAP_KI\2\ArtworkShop_BackEnd_Api\AWS\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\GAP_KI\2\ArtworkShop_BackEnd_Api\AWS\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\GAP_KI\2\ArtworkShop_BackEnd_Api\AWS\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\GAP_KI\2\ArtworkShop_BackEnd_Api\AWS\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\GAP_KI\2\ArtworkShop_BackEnd_Api\AWS\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\GAP_KI\2\ArtworkShop_BackEnd_Api\AWS\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\GAP_KI\2\ArtworkShop_BackEnd_Api\AWS\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\GAP_KI\2\ArtworkShop_BackEnd_Api\AWS\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\GAP_KI\2\ArtworkShop_BackEnd_Api\AWS\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\GAP_KI\2\ArtworkShop_BackEnd_Api\AWS\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\GAP_KI\2\ArtworkShop_BackEnd_Api\AWS\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\GAP_KI\2\ArtworkShop_BackEnd_Api\AWS\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\GAP_KI\2\ArtworkShop_BackEnd_Api\AWS\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\GAP_KI\2\ArtworkShop_BackEnd_Api\AWS\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\GAP_KI\2\ArtworkShop_BackEnd_Api\AWS\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\GAP_KI\2\ArtworkShop_BackEnd_Api\AWS\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\GAP_KI\2\ArtworkShop_BackEnd_Api\AWS\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\GAP_KI\2\ArtworkShop_BackEnd_Api\AWS\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\GAP_KI\2\ArtworkShop_BackEnd_Api\AWS\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\GAP_KI\2\ArtworkShop_BackEnd_Api\AWS\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\GAP_KI\2\ArtworkShop_BackEnd_Api\AWS\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\GAP_KI\2\ArtworkShop_BackEnd_Api\AWS\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\GAP_KI\2\ArtworkShop_BackEnd_Api\AWS\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\GAP_KI\2\ArtworkShop_BackEnd_Api\AWS\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\GAP_KI\2\ArtworkShop_BackEnd_Api\AWS\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\GAP_KI\2\ArtworkShop_BackEnd_Api\AWS\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\GAP_KI\2\ArtworkShop_BackEnd_Api\AWS\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\GAP_KI\2\ArtworkShop_BackEnd_Api\AWS\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\GAP_KI\2\ArtworkShop_BackEnd_Api\AWS\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\GAP_KI\2\ArtworkShop_BackEnd_Api\AWS\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\GAP_KI\2\ArtworkShop_BackEnd_Api\AWS\obj\Debug\net6.0\AWS.csproj.AssemblyReference.cache
+E:\GAP_KI\2\ArtworkShop_BackEnd_Api\AWS\obj\Debug\net6.0\AWS.GeneratedMSBuildEditorConfig.editorconfig
+E:\GAP_KI\2\ArtworkShop_BackEnd_Api\AWS\obj\Debug\net6.0\AWS.AssemblyInfoInputs.cache
+E:\GAP_KI\2\ArtworkShop_BackEnd_Api\AWS\obj\Debug\net6.0\AWS.AssemblyInfo.cs
+E:\GAP_KI\2\ArtworkShop_BackEnd_Api\AWS\obj\Debug\net6.0\AWS.csproj.CoreCompileInputs.cache
+E:\GAP_KI\2\ArtworkShop_BackEnd_Api\AWS\obj\Debug\net6.0\AWS.MvcApplicationPartsAssemblyInfo.cs
+E:\GAP_KI\2\ArtworkShop_BackEnd_Api\AWS\obj\Debug\net6.0\AWS.MvcApplicationPartsAssemblyInfo.cache
+E:\GAP_KI\2\ArtworkShop_BackEnd_Api\AWS\obj\Debug\net6.0\AWS.sourcelink.json
+E:\GAP_KI\2\ArtworkShop_BackEnd_Api\AWS\obj\Debug\net6.0\staticwebassets.build.json
+E:\GAP_KI\2\ArtworkShop_BackEnd_Api\AWS\obj\Debug\net6.0\staticwebassets.development.json
+E:\GAP_KI\2\ArtworkShop_BackEnd_Api\AWS\obj\Debug\net6.0\staticwebassets\msbuild.AWS.Microsoft.AspNetCore.StaticWebAssets.props
+E:\GAP_KI\2\ArtworkShop_BackEnd_Api\AWS\obj\Debug\net6.0\staticwebassets\msbuild.build.AWS.props
+E:\GAP_KI\2\ArtworkShop_BackEnd_Api\AWS\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.AWS.props
+E:\GAP_KI\2\ArtworkShop_BackEnd_Api\AWS\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.AWS.props
+E:\GAP_KI\2\ArtworkShop_BackEnd_Api\AWS\obj\Debug\net6.0\staticwebassets.pack.json
+E:\GAP_KI\2\ArtworkShop_BackEnd_Api\AWS\obj\Debug\net6.0\scopedcss\bundle\AWS.styles.css
+E:\GAP_KI\2\ArtworkShop_BackEnd_Api\AWS\obj\Debug\net6.0\AWS.csproj.CopyComplete
+E:\GAP_KI\2\ArtworkShop_BackEnd_Api\AWS\obj\Debug\net6.0\AWS.dll
+E:\GAP_KI\2\ArtworkShop_BackEnd_Api\AWS\obj\Debug\net6.0\refint\AWS.dll
+E:\GAP_KI\2\ArtworkShop_BackEnd_Api\AWS\obj\Debug\net6.0\AWS.pdb
+E:\GAP_KI\2\ArtworkShop_BackEnd_Api\AWS\obj\Debug\net6.0\AWS.genruntimeconfig.cache
+E:\GAP_KI\2\ArtworkShop_BackEnd_Api\AWS\obj\Debug\net6.0\ref\AWS.dll
+E:\GAP_KI\3\ArtworkShop_BackEnd_Api\AWS\bin\Debug\net6.0\appsettings.Development.json
+E:\GAP_KI\3\ArtworkShop_BackEnd_Api\AWS\bin\Debug\net6.0\appsettings.json
+E:\GAP_KI\3\ArtworkShop_BackEnd_Api\AWS\bin\Debug\net6.0\AWS.exe
+E:\GAP_KI\3\ArtworkShop_BackEnd_Api\AWS\bin\Debug\net6.0\AWS.deps.json
+E:\GAP_KI\3\ArtworkShop_BackEnd_Api\AWS\bin\Debug\net6.0\AWS.runtimeconfig.json
+E:\GAP_KI\3\ArtworkShop_BackEnd_Api\AWS\bin\Debug\net6.0\AWS.dll
+E:\GAP_KI\3\ArtworkShop_BackEnd_Api\AWS\bin\Debug\net6.0\AWS.pdb
+E:\GAP_KI\3\ArtworkShop_BackEnd_Api\AWS\bin\Debug\net6.0\BCrypt.Net-Next.dll
+E:\GAP_KI\3\ArtworkShop_BackEnd_Api\AWS\bin\Debug\net6.0\Humanizer.dll
+E:\GAP_KI\3\ArtworkShop_BackEnd_Api\AWS\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\GAP_KI\3\ArtworkShop_BackEnd_Api\AWS\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\GAP_KI\3\ArtworkShop_BackEnd_Api\AWS\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\GAP_KI\3\ArtworkShop_BackEnd_Api\AWS\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\GAP_KI\3\ArtworkShop_BackEnd_Api\AWS\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\GAP_KI\3\ArtworkShop_BackEnd_Api\AWS\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\GAP_KI\3\ArtworkShop_BackEnd_Api\AWS\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\GAP_KI\3\ArtworkShop_BackEnd_Api\AWS\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\GAP_KI\3\ArtworkShop_BackEnd_Api\AWS\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+E:\GAP_KI\3\ArtworkShop_BackEnd_Api\AWS\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\GAP_KI\3\ArtworkShop_BackEnd_Api\AWS\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\GAP_KI\3\ArtworkShop_BackEnd_Api\AWS\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\GAP_KI\3\ArtworkShop_BackEnd_Api\AWS\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\GAP_KI\3\ArtworkShop_BackEnd_Api\AWS\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\GAP_KI\3\ArtworkShop_BackEnd_Api\AWS\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\GAP_KI\3\ArtworkShop_BackEnd_Api\AWS\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\GAP_KI\3\ArtworkShop_BackEnd_Api\AWS\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\GAP_KI\3\ArtworkShop_BackEnd_Api\AWS\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\GAP_KI\3\ArtworkShop_BackEnd_Api\AWS\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\GAP_KI\3\ArtworkShop_BackEnd_Api\AWS\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\GAP_KI\3\ArtworkShop_BackEnd_Api\AWS\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\GAP_KI\3\ArtworkShop_BackEnd_Api\AWS\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\GAP_KI\3\ArtworkShop_BackEnd_Api\AWS\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\GAP_KI\3\ArtworkShop_BackEnd_Api\AWS\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\GAP_KI\3\ArtworkShop_BackEnd_Api\AWS\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\GAP_KI\3\ArtworkShop_BackEnd_Api\AWS\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\GAP_KI\3\ArtworkShop_BackEnd_Api\AWS\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\GAP_KI\3\ArtworkShop_BackEnd_Api\AWS\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\GAP_KI\3\ArtworkShop_BackEnd_Api\AWS\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\GAP_KI\3\ArtworkShop_BackEnd_Api\AWS\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\GAP_KI\3\ArtworkShop_BackEnd_Api\AWS\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\GAP_KI\3\ArtworkShop_BackEnd_Api\AWS\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\GAP_KI\3\ArtworkShop_BackEnd_Api\AWS\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\GAP_KI\3\ArtworkShop_BackEnd_Api\AWS\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\GAP_KI\3\ArtworkShop_BackEnd_Api\AWS\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\GAP_KI\3\ArtworkShop_BackEnd_Api\AWS\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\GAP_KI\3\ArtworkShop_BackEnd_Api\AWS\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\GAP_KI\3\ArtworkShop_BackEnd_Api\AWS\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\GAP_KI\3\ArtworkShop_BackEnd_Api\AWS\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\GAP_KI\3\ArtworkShop_BackEnd_Api\AWS\obj\Debug\net6.0\AWS.csproj.AssemblyReference.cache
+E:\GAP_KI\3\ArtworkShop_BackEnd_Api\AWS\obj\Debug\net6.0\AWS.GeneratedMSBuildEditorConfig.editorconfig
+E:\GAP_KI\3\ArtworkShop_BackEnd_Api\AWS\obj\Debug\net6.0\AWS.AssemblyInfoInputs.cache
+E:\GAP_KI\3\ArtworkShop_BackEnd_Api\AWS\obj\Debug\net6.0\AWS.AssemblyInfo.cs
+E:\GAP_KI\3\ArtworkShop_BackEnd_Api\AWS\obj\Debug\net6.0\AWS.csproj.CoreCompileInputs.cache
+E:\GAP_KI\3\ArtworkShop_BackEnd_Api\AWS\obj\Debug\net6.0\AWS.MvcApplicationPartsAssemblyInfo.cs
+E:\GAP_KI\3\ArtworkShop_BackEnd_Api\AWS\obj\Debug\net6.0\AWS.MvcApplicationPartsAssemblyInfo.cache
+E:\GAP_KI\3\ArtworkShop_BackEnd_Api\AWS\obj\Debug\net6.0\AWS.sourcelink.json
+E:\GAP_KI\3\ArtworkShop_BackEnd_Api\AWS\obj\Debug\net6.0\staticwebassets.build.json
+E:\GAP_KI\3\ArtworkShop_BackEnd_Api\AWS\obj\Debug\net6.0\staticwebassets.development.json
+E:\GAP_KI\3\ArtworkShop_BackEnd_Api\AWS\obj\Debug\net6.0\staticwebassets\msbuild.AWS.Microsoft.AspNetCore.StaticWebAssets.props
+E:\GAP_KI\3\ArtworkShop_BackEnd_Api\AWS\obj\Debug\net6.0\staticwebassets\msbuild.build.AWS.props
+E:\GAP_KI\3\ArtworkShop_BackEnd_Api\AWS\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.AWS.props
+E:\GAP_KI\3\ArtworkShop_BackEnd_Api\AWS\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.AWS.props
+E:\GAP_KI\3\ArtworkShop_BackEnd_Api\AWS\obj\Debug\net6.0\staticwebassets.pack.json
+E:\GAP_KI\3\ArtworkShop_BackEnd_Api\AWS\obj\Debug\net6.0\scopedcss\bundle\AWS.styles.css
+E:\GAP_KI\3\ArtworkShop_BackEnd_Api\AWS\obj\Debug\net6.0\AWS.csproj.CopyComplete
+E:\GAP_KI\3\ArtworkShop_BackEnd_Api\AWS\obj\Debug\net6.0\AWS.dll
+E:\GAP_KI\3\ArtworkShop_BackEnd_Api\AWS\obj\Debug\net6.0\refint\AWS.dll
+E:\GAP_KI\3\ArtworkShop_BackEnd_Api\AWS\obj\Debug\net6.0\AWS.pdb
+E:\GAP_KI\3\ArtworkShop_BackEnd_Api\AWS\obj\Debug\net6.0\AWS.genruntimeconfig.cache
+E:\GAP_KI\3\ArtworkShop_BackEnd_Api\AWS\obj\Debug\net6.0\ref\AWS.dll
+E:\GAP_KI\4\ArtworkShop_BackEnd_Api\AWS\bin\Debug\net6.0\appsettings.Development.json
+E:\GAP_KI\4\ArtworkShop_BackEnd_Api\AWS\bin\Debug\net6.0\appsettings.json
+E:\GAP_KI\4\ArtworkShop_BackEnd_Api\AWS\bin\Debug\net6.0\AWS.exe
+E:\GAP_KI\4\ArtworkShop_BackEnd_Api\AWS\bin\Debug\net6.0\AWS.deps.json
+E:\GAP_KI\4\ArtworkShop_BackEnd_Api\AWS\bin\Debug\net6.0\AWS.runtimeconfig.json
+E:\GAP_KI\4\ArtworkShop_BackEnd_Api\AWS\bin\Debug\net6.0\AWS.dll
+E:\GAP_KI\4\ArtworkShop_BackEnd_Api\AWS\bin\Debug\net6.0\AWS.pdb
+E:\GAP_KI\4\ArtworkShop_BackEnd_Api\AWS\bin\Debug\net6.0\BCrypt.Net-Next.dll
+E:\GAP_KI\4\ArtworkShop_BackEnd_Api\AWS\bin\Debug\net6.0\Humanizer.dll
+E:\GAP_KI\4\ArtworkShop_BackEnd_Api\AWS\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\GAP_KI\4\ArtworkShop_BackEnd_Api\AWS\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\GAP_KI\4\ArtworkShop_BackEnd_Api\AWS\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\GAP_KI\4\ArtworkShop_BackEnd_Api\AWS\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\GAP_KI\4\ArtworkShop_BackEnd_Api\AWS\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\GAP_KI\4\ArtworkShop_BackEnd_Api\AWS\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\GAP_KI\4\ArtworkShop_BackEnd_Api\AWS\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\GAP_KI\4\ArtworkShop_BackEnd_Api\AWS\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\GAP_KI\4\ArtworkShop_BackEnd_Api\AWS\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+E:\GAP_KI\4\ArtworkShop_BackEnd_Api\AWS\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\GAP_KI\4\ArtworkShop_BackEnd_Api\AWS\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\GAP_KI\4\ArtworkShop_BackEnd_Api\AWS\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\GAP_KI\4\ArtworkShop_BackEnd_Api\AWS\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\GAP_KI\4\ArtworkShop_BackEnd_Api\AWS\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\GAP_KI\4\ArtworkShop_BackEnd_Api\AWS\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\GAP_KI\4\ArtworkShop_BackEnd_Api\AWS\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\GAP_KI\4\ArtworkShop_BackEnd_Api\AWS\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\GAP_KI\4\ArtworkShop_BackEnd_Api\AWS\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\GAP_KI\4\ArtworkShop_BackEnd_Api\AWS\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\GAP_KI\4\ArtworkShop_BackEnd_Api\AWS\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\GAP_KI\4\ArtworkShop_BackEnd_Api\AWS\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\GAP_KI\4\ArtworkShop_BackEnd_Api\AWS\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\GAP_KI\4\ArtworkShop_BackEnd_Api\AWS\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\GAP_KI\4\ArtworkShop_BackEnd_Api\AWS\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\GAP_KI\4\ArtworkShop_BackEnd_Api\AWS\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\GAP_KI\4\ArtworkShop_BackEnd_Api\AWS\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\GAP_KI\4\ArtworkShop_BackEnd_Api\AWS\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\GAP_KI\4\ArtworkShop_BackEnd_Api\AWS\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\GAP_KI\4\ArtworkShop_BackEnd_Api\AWS\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\GAP_KI\4\ArtworkShop_BackEnd_Api\AWS\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\GAP_KI\4\ArtworkShop_BackEnd_Api\AWS\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\GAP_KI\4\ArtworkShop_BackEnd_Api\AWS\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\GAP_KI\4\ArtworkShop_BackEnd_Api\AWS\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\GAP_KI\4\ArtworkShop_BackEnd_Api\AWS\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\GAP_KI\4\ArtworkShop_BackEnd_Api\AWS\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\GAP_KI\4\ArtworkShop_BackEnd_Api\AWS\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\GAP_KI\4\ArtworkShop_BackEnd_Api\AWS\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\GAP_KI\4\ArtworkShop_BackEnd_Api\AWS\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\GAP_KI\4\ArtworkShop_BackEnd_Api\AWS\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\GAP_KI\4\ArtworkShop_BackEnd_Api\AWS\obj\Debug\net6.0\AWS.csproj.AssemblyReference.cache
+E:\GAP_KI\4\ArtworkShop_BackEnd_Api\AWS\obj\Debug\net6.0\AWS.GeneratedMSBuildEditorConfig.editorconfig
+E:\GAP_KI\4\ArtworkShop_BackEnd_Api\AWS\obj\Debug\net6.0\AWS.AssemblyInfoInputs.cache
+E:\GAP_KI\4\ArtworkShop_BackEnd_Api\AWS\obj\Debug\net6.0\AWS.AssemblyInfo.cs
+E:\GAP_KI\4\ArtworkShop_BackEnd_Api\AWS\obj\Debug\net6.0\AWS.csproj.CoreCompileInputs.cache
+E:\GAP_KI\4\ArtworkShop_BackEnd_Api\AWS\obj\Debug\net6.0\AWS.MvcApplicationPartsAssemblyInfo.cs
+E:\GAP_KI\4\ArtworkShop_BackEnd_Api\AWS\obj\Debug\net6.0\AWS.MvcApplicationPartsAssemblyInfo.cache
+E:\GAP_KI\4\ArtworkShop_BackEnd_Api\AWS\obj\Debug\net6.0\AWS.sourcelink.json
+E:\GAP_KI\4\ArtworkShop_BackEnd_Api\AWS\obj\Debug\net6.0\staticwebassets.build.json
+E:\GAP_KI\4\ArtworkShop_BackEnd_Api\AWS\obj\Debug\net6.0\staticwebassets.development.json
+E:\GAP_KI\4\ArtworkShop_BackEnd_Api\AWS\obj\Debug\net6.0\staticwebassets\msbuild.AWS.Microsoft.AspNetCore.StaticWebAssets.props
+E:\GAP_KI\4\ArtworkShop_BackEnd_Api\AWS\obj\Debug\net6.0\staticwebassets\msbuild.build.AWS.props
+E:\GAP_KI\4\ArtworkShop_BackEnd_Api\AWS\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.AWS.props
+E:\GAP_KI\4\ArtworkShop_BackEnd_Api\AWS\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.AWS.props
+E:\GAP_KI\4\ArtworkShop_BackEnd_Api\AWS\obj\Debug\net6.0\staticwebassets.pack.json
+E:\GAP_KI\4\ArtworkShop_BackEnd_Api\AWS\obj\Debug\net6.0\scopedcss\bundle\AWS.styles.css
+E:\GAP_KI\4\ArtworkShop_BackEnd_Api\AWS\obj\Debug\net6.0\AWS.csproj.CopyComplete
+E:\GAP_KI\4\ArtworkShop_BackEnd_Api\AWS\obj\Debug\net6.0\AWS.dll
+E:\GAP_KI\4\ArtworkShop_BackEnd_Api\AWS\obj\Debug\net6.0\refint\AWS.dll
+E:\GAP_KI\4\ArtworkShop_BackEnd_Api\AWS\obj\Debug\net6.0\AWS.pdb
+E:\GAP_KI\4\ArtworkShop_BackEnd_Api\AWS\obj\Debug\net6.0\AWS.genruntimeconfig.cache
+E:\GAP_KI\4\ArtworkShop_BackEnd_Api\AWS\obj\Debug\net6.0\ref\AWS.dll
+C:\Users\Welcome\OneDrive\Máy tính\ANS\ArtworkShop_BackEnd_Api\AWS\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Welcome\OneDrive\Máy tính\ANS\ArtworkShop_BackEnd_Api\AWS\bin\Debug\net6.0\appsettings.json
+C:\Users\Welcome\OneDrive\Máy tính\ANS\ArtworkShop_BackEnd_Api\AWS\bin\Debug\net6.0\AWS.exe
+C:\Users\Welcome\OneDrive\Máy tính\ANS\ArtworkShop_BackEnd_Api\AWS\bin\Debug\net6.0\AWS.deps.json
+C:\Users\Welcome\OneDrive\Máy tính\ANS\ArtworkShop_BackEnd_Api\AWS\bin\Debug\net6.0\AWS.runtimeconfig.json
+C:\Users\Welcome\OneDrive\Máy tính\ANS\ArtworkShop_BackEnd_Api\AWS\bin\Debug\net6.0\AWS.dll
+C:\Users\Welcome\OneDrive\Máy tính\ANS\ArtworkShop_BackEnd_Api\AWS\bin\Debug\net6.0\AWS.pdb
+C:\Users\Welcome\OneDrive\Máy tính\ANS\ArtworkShop_BackEnd_Api\AWS\bin\Debug\net6.0\BCrypt.Net-Next.dll
+C:\Users\Welcome\OneDrive\Máy tính\ANS\ArtworkShop_BackEnd_Api\AWS\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Welcome\OneDrive\Máy tính\ANS\ArtworkShop_BackEnd_Api\AWS\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Welcome\OneDrive\Máy tính\ANS\ArtworkShop_BackEnd_Api\AWS\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Welcome\OneDrive\Máy tính\ANS\ArtworkShop_BackEnd_Api\AWS\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Welcome\OneDrive\Máy tính\ANS\ArtworkShop_BackEnd_Api\AWS\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Welcome\OneDrive\Máy tính\ANS\ArtworkShop_BackEnd_Api\AWS\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Welcome\OneDrive\Máy tính\ANS\ArtworkShop_BackEnd_Api\AWS\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Welcome\OneDrive\Máy tính\ANS\ArtworkShop_BackEnd_Api\AWS\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Welcome\OneDrive\Máy tính\ANS\ArtworkShop_BackEnd_Api\AWS\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Welcome\OneDrive\Máy tính\ANS\ArtworkShop_BackEnd_Api\AWS\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Welcome\OneDrive\Máy tính\ANS\ArtworkShop_BackEnd_Api\AWS\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Welcome\OneDrive\Máy tính\ANS\ArtworkShop_BackEnd_Api\AWS\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Welcome\OneDrive\Máy tính\ANS\ArtworkShop_BackEnd_Api\AWS\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Welcome\OneDrive\Máy tính\ANS\ArtworkShop_BackEnd_Api\AWS\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Welcome\OneDrive\Máy tính\ANS\ArtworkShop_BackEnd_Api\AWS\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Welcome\OneDrive\Máy tính\ANS\ArtworkShop_BackEnd_Api\AWS\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Welcome\OneDrive\Máy tính\ANS\ArtworkShop_BackEnd_Api\AWS\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Welcome\OneDrive\Máy tính\ANS\ArtworkShop_BackEnd_Api\AWS\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Welcome\OneDrive\Máy tính\ANS\ArtworkShop_BackEnd_Api\AWS\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Welcome\OneDrive\Máy tính\ANS\ArtworkShop_BackEnd_Api\AWS\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Welcome\OneDrive\Máy tính\ANS\ArtworkShop_BackEnd_Api\AWS\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Welcome\OneDrive\Máy tính\ANS\ArtworkShop_BackEnd_Api\AWS\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Welcome\OneDrive\Máy tính\ANS\ArtworkShop_BackEnd_Api\AWS\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Welcome\OneDrive\Máy tính\ANS\ArtworkShop_BackEnd_Api\AWS\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Welcome\OneDrive\Máy tính\ANS\ArtworkShop_BackEnd_Api\AWS\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Welcome\OneDrive\Máy tính\ANS\ArtworkShop_BackEnd_Api\AWS\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Welcome\OneDrive\Máy tính\ANS\ArtworkShop_BackEnd_Api\AWS\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Welcome\OneDrive\Máy tính\ANS\ArtworkShop_BackEnd_Api\AWS\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Welcome\OneDrive\Máy tính\ANS\ArtworkShop_BackEnd_Api\AWS\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Welcome\OneDrive\Máy tính\ANS\ArtworkShop_BackEnd_Api\AWS\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Welcome\OneDrive\Máy tính\ANS\ArtworkShop_BackEnd_Api\AWS\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Welcome\OneDrive\Máy tính\ANS\ArtworkShop_BackEnd_Api\AWS\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Welcome\OneDrive\Máy tính\ANS\ArtworkShop_BackEnd_Api\AWS\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Welcome\OneDrive\Máy tính\ANS\ArtworkShop_BackEnd_Api\AWS\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Welcome\OneDrive\Máy tính\ANS\ArtworkShop_BackEnd_Api\AWS\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Welcome\OneDrive\Máy tính\ANS\ArtworkShop_BackEnd_Api\AWS\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Welcome\OneDrive\Máy tính\ANS\ArtworkShop_BackEnd_Api\AWS\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Welcome\OneDrive\Máy tính\ANS\ArtworkShop_BackEnd_Api\AWS\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Welcome\OneDrive\Máy tính\ANS\ArtworkShop_BackEnd_Api\AWS\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Welcome\OneDrive\Máy tính\ANS\ArtworkShop_BackEnd_Api\AWS\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Welcome\OneDrive\Máy tính\ANS\ArtworkShop_BackEnd_Api\AWS\obj\Debug\net6.0\AWS.csproj.AssemblyReference.cache
+C:\Users\Welcome\OneDrive\Máy tính\ANS\ArtworkShop_BackEnd_Api\AWS\obj\Debug\net6.0\AWS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Welcome\OneDrive\Máy tính\ANS\ArtworkShop_BackEnd_Api\AWS\obj\Debug\net6.0\AWS.AssemblyInfoInputs.cache
+C:\Users\Welcome\OneDrive\Máy tính\ANS\ArtworkShop_BackEnd_Api\AWS\obj\Debug\net6.0\AWS.AssemblyInfo.cs
+C:\Users\Welcome\OneDrive\Máy tính\ANS\ArtworkShop_BackEnd_Api\AWS\obj\Debug\net6.0\AWS.csproj.CoreCompileInputs.cache
+C:\Users\Welcome\OneDrive\Máy tính\ANS\ArtworkShop_BackEnd_Api\AWS\obj\Debug\net6.0\AWS.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Welcome\OneDrive\Máy tính\ANS\ArtworkShop_BackEnd_Api\AWS\obj\Debug\net6.0\AWS.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Welcome\OneDrive\Máy tính\ANS\ArtworkShop_BackEnd_Api\AWS\obj\Debug\net6.0\AWS.sourcelink.json
+C:\Users\Welcome\OneDrive\Máy tính\ANS\ArtworkShop_BackEnd_Api\AWS\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Welcome\OneDrive\Máy tính\ANS\ArtworkShop_BackEnd_Api\AWS\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Welcome\OneDrive\Máy tính\ANS\ArtworkShop_BackEnd_Api\AWS\obj\Debug\net6.0\staticwebassets\msbuild.AWS.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Welcome\OneDrive\Máy tính\ANS\ArtworkShop_BackEnd_Api\AWS\obj\Debug\net6.0\staticwebassets\msbuild.build.AWS.props
+C:\Users\Welcome\OneDrive\Máy tính\ANS\ArtworkShop_BackEnd_Api\AWS\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.AWS.props
+C:\Users\Welcome\OneDrive\Máy tính\ANS\ArtworkShop_BackEnd_Api\AWS\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.AWS.props
+C:\Users\Welcome\OneDrive\Máy tính\ANS\ArtworkShop_BackEnd_Api\AWS\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Welcome\OneDrive\Máy tính\ANS\ArtworkShop_BackEnd_Api\AWS\obj\Debug\net6.0\scopedcss\bundle\AWS.styles.css
+C:\Users\Welcome\OneDrive\Máy tính\ANS\ArtworkShop_BackEnd_Api\AWS\obj\Debug\net6.0\AWS.csproj.CopyComplete
+C:\Users\Welcome\OneDrive\Máy tính\ANS\ArtworkShop_BackEnd_Api\AWS\obj\Debug\net6.0\AWS.dll
+C:\Users\Welcome\OneDrive\Máy tính\ANS\ArtworkShop_BackEnd_Api\AWS\obj\Debug\net6.0\refint\AWS.dll
+C:\Users\Welcome\OneDrive\Máy tính\ANS\ArtworkShop_BackEnd_Api\AWS\obj\Debug\net6.0\AWS.pdb
+C:\Users\Welcome\OneDrive\Máy tính\ANS\ArtworkShop_BackEnd_Api\AWS\obj\Debug\net6.0\AWS.genruntimeconfig.cache
+C:\Users\Welcome\OneDrive\Máy tính\ANS\ArtworkShop_BackEnd_Api\AWS\obj\Debug\net6.0\ref\AWS.dll
